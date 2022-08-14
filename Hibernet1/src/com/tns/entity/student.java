@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 //INFORMING TO THE PROGRAM ABOUT THE DATABASE TABLE
 @Entity
-@Table(name="gauraja")
+@Table(name="student")
 public class student implements Serializable
 {
 
